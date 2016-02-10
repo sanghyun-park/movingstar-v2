@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var lex = require('letsencrypt-express');
+var app = require('../app');
+var http = require('http');
+
+lex.create(app).listen();
