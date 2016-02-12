@@ -1,0 +1,22 @@
+{
+  "name": "movingstar-v2",
+  "description": "",
+  "main": "",
+  "authors": [
+    "sanghyun-park <drrrnino7@ddongbbang.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}
